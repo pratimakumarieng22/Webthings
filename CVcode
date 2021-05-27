@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CV</title>
+</head>
+<body>
+<h1><center><u>CURRICULUM VITAE</u></center></h1>
+<center><table border="2px solid black">
+    <tr>
+         <td><left><img src="guddi.jpg " width="80px" height="80px"></left></td></tr>
+        <td><b> Name: Pratima Kumari Saithwar</b><br></td>
+
+</tr>
+    <td>
+        <br><b>Address:</b>Kanpur<br>
+        <b> Mobile No.:</b>8331628289<br>
+        <b>Email : </b>1871910042@axiscolleges.in<br>
+        <b> PIN CODE:</b>208008
+        </td>
+    </tr>
+    <tr>
+        <td><b><u><br>CAREER OBJECTIVE </u></b><br>
+            <br>
+        To working in a challenging Environment where my knowledge and Experience can be sheared and enriched
+        </td></tr>
+    <tr>
+        <td><u><br><b><u>CADEMIC QUALIFICATION</u></b></u><br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <ul>
+                    <li><b>Axis institute of technology and management Kanpur</b><br>
+2018-2022<br>I am pursuing B.tech from computer science and engineering and I have successfully completed my 2nd year
+with 7.91 CGPA</li>
+                    <li><b>Ramharsh I C Nichlaul Maharajganj</b><br>
+2017-2018<br>
+I have successfully completed my intermediate with 77.2% </li>
+                    <li><b>Tribhuvan Ma Vi Belatari</b><br>
+2016<br>
+I have successfully completed my high school with 72.5%
+</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <br><b><u>SKILS</u></b><br>
+            <div>
+                <ul>
+                    <li><b>Python:</b> I have intermediate knowledge in python and I love to do working with python</li>
+                    <li><b>Database:</b>I have intermediate knowledge in database and I have also skills about SQL,pL/SQL,MYSQL</li>
+                    <li><b>C programming:</b> I have basic understanding about c programming
+</li>
+                    <li><b>Data structure and algorithm:</b> I have basic understanding in DSA
+</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <br><b><u>PROJECTS </u></b><br>
+            <div>
+                <ul>
+                    <li>
+<b>Attadance Using Face Identification</b>
+We have successfully completed my project ,I am the team leader of my group ,we have successfully completed
+our project before deadline.<br>
+                        <b>Tools:</b> Python,opencv,cmake, pyCharm<br>
+                        <b>Project begin date:</b>10 Dec 2020<br>
+                        <b>Project completed date:</b>8 Feb 2021
+</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td><br><b><u>STRENGTHS</u></b>
+        <div><ul>
+            <li>
+                Responsible<br>
+            </li>
+            <li> Hardworking</li>
+        </ul></div></td>
+    </tr>
+    <tr>
+        <td><b><u>PERSONAL DETAILS</u></b>
+            <div>
+                <ul>
+                    <li><b>NAME:</b> Pratima </li>
+                    <li><b>Father Name:</b> Lal Bihari</li>
+                    <li><b>DOB:</b> 06/12/1999</li>
+                    <li><b>Gender:</b> Female</li>
+                    <li><b>Nationality:</b> Indian</li>
+                    <li><b>Language:</b> Hindi,English,Nepali</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+    <tr><td> <br><u><b>DECLARATION</b></u>
+<br>
+    I hearby declare that the above information given by me is true to the best of my knowledge and belief.
+    <br>I work in your esteemed co-operation with my full devotion.
+</td></tr>
+
+</table></center>
+</body>
+</html>
